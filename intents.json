@@ -1,0 +1,100 @@
+{
+    "intents": [
+      {
+        "tag": "saudacao",
+        "patterns": ["Olá", "Oi", "E aí", "Oi, tudo bem?", "Oi, como vai?", "Bom dia", "Boa tarde", "Boa noite"],
+        "responses": ["Olá! Como posso te ajudar com o PIPE?", "Oi! Precisa de algo sobre o PIPE?", "E aí! Como posso ajudar?"]
+      },
+      {
+        "tag": "despedida",
+        "patterns": ["Tchau", "Até logo", "Falou", "Até mais", "Nos vemos depois"],
+        "responses": ["Até logo! Espero ter ajudado.", "Tchau! Volte sempre!", "Até mais!"]
+      },
+      {
+        "tag": "sobre_pipe",
+        "patterns": ["O que é o PIPE?", "Me fale sobre o PIPE", "Para que serve o PIPE?", "Como funciona o PIPE?"],
+        "responses": ["O PIPE é um programa de apoio a pequenas empresas inovadoras, oferecendo financiamento para pesquisa e desenvolvimento."]
+      },
+      {
+        "tag": "como_participar",
+        "patterns": ["Como participar do PIPE?", "Quais são os critérios para o PIPE?", "Quem pode se inscrever no PIPE?"],
+        "responses": ["Podem participar pequenas empresas brasileiras com foco em inovação tecnológica."]
+      },
+      {
+        "tag": "financiamento",
+        "patterns": ["O PIPE oferece financiamento?", "Qual o valor do financiamento do PIPE?", "O PIPE é um investimento ou um empréstimo?"],
+        "responses": ["O PIPE financia projetos de inovação sem necessidade de reembolso, desde que cumpram os requisitos do programa."]
+      },
+      {
+        "tag": "documentacao",
+        "patterns": ["Quais documentos são necessários para o PIPE?", "Que documentação preciso enviar?", "Quais os requisitos de documentação?"],
+        "responses": ["Os documentos necessários incluem plano de negócios, comprovação da empresa e detalhamento técnico do projeto."]
+      },
+      {
+        "tag": "prazo",
+        "patterns": ["Qual o prazo para inscrição no PIPE?", "Quando posso me inscrever?", "Existe um prazo para enviar a proposta?"],
+        "responses": ["O PIPE recebe propostas ao longo do ano, mas é importante verificar os prazos específicos de cada chamada pública."]
+      },
+      {
+        "tag": "avaliacao",
+        "patterns": ["Como é feita a avaliação dos projetos?", "Quais critérios são usados para avaliação?", "Meu projeto será avaliado por quem?"],
+        "responses": ["Os projetos são avaliados por especialistas e devem atender a critérios de inovação, viabilidade técnica e impacto econômico."]
+      },
+      {
+        "tag": "problemas_inscricao",
+        "patterns": ["Estou com problemas na inscrição", "Erro ao me inscrever no PIPE", "Não consigo enviar minha proposta"],
+        "responses": ["Se você estiver com dificuldades na inscrição, tente limpar o cache do navegador ou acessar de outro dispositivo. Se o problema persistir, entre em contato com o suporte."]
+      },
+      {
+        "tag": "contato_suporte",
+        "patterns": ["Como entrar em contato com o suporte?", "Qual o e-mail do PIPE?", "Existe um telefone para suporte?"],
+        "responses": ["Você pode entrar em contato pelo e-mail suporte@pipe.com.br ou pelo telefone (11) 1234-5678."]
+      },
+      {
+        "tag": "diferenca_outros_programas",
+        "patterns": ["Qual a diferença entre PIPE e outros programas?", "PIPE é igual ao FAPESP?", "Quais as vantagens do PIPE sobre outros financiamentos?"],
+        "responses": ["O PIPE se diferencia por apoiar pequenas empresas inovadoras sem exigir reembolso, focando na pesquisa e desenvolvimento."]
+      },
+      {
+        "tag": "requisitos_empresa",
+        "patterns": ["Minha empresa pode se inscrever?", "Empresas novas podem participar?", "Preciso ter CNPJ para participar?"],
+        "responses": ["Sim, sua empresa precisa ter CNPJ e atuar no Brasil. O programa foca em pequenas empresas inovadoras."]
+      },
+      {
+        "tag": "tempo_aprovacao",
+        "patterns": ["Quanto tempo demora a aprovação do PIPE?", "Em quanto tempo recebo uma resposta?", "Qual o prazo para análise do projeto?"],
+        "responses": ["O prazo de análise pode variar, mas geralmente leva entre 60 e 90 dias para uma resposta oficial."]
+      },
+      {
+        "tag": "uso_dos_recursos",
+        "patterns": ["Em que posso gastar o dinheiro do PIPE?", "O financiamento pode ser usado para salários?", "Posso usar os recursos para comprar equipamentos?"],
+        "responses": ["Os recursos podem ser usados para pagar salários, comprar equipamentos e financiar pesquisas dentro das regras do PIPE."]
+      },
+      {
+        "tag": "reprovacao",
+        "patterns": ["Meu projeto foi recusado, o que posso fazer?", "E se minha proposta for reprovada?", "Posso tentar novamente se não for aprovado?"],
+        "responses": ["Se seu projeto for recusado, você pode reformular a proposta e submeter novamente em uma nova chamada pública."]
+      },
+      {
+        "tag": "propriedade_intelectual",
+        "patterns": ["Quem fica com os direitos do projeto?", "A FAPESP fica com a patente?", "O PIPE exige compartilhamento da tecnologia?"],
+        "responses": ["Os direitos da propriedade intelectual continuam sendo da empresa, sem exigência de compartilhamento com o PIPE."]
+      },
+      {
+        "tag": "curiosidade",
+        "patterns": ["Me conte algo curioso", "Diga uma curiosidade sobre o PIPE", "Fale algo interessante"],
+        "responses": ["Sabia que o PIPE já financiou mais de 1.500 projetos de inovação no Brasil?"]
+      },
+      {
+        "tag": "agradecimento",
+        "patterns": ["Obrigado", "Valeu", "Muito obrigado", "Agradeço pela ajuda"],
+        "responses": ["De nada! Sempre que precisar, estou à disposição.", "Fico feliz em ajudar!"]
+      },
+      {
+        "tag": "nao_entendi",
+        "patterns": ["Não entendi", "Poderia repetir?", "Explica melhor", "O que você quer dizer com isso?"],
+        "responses": ["Posso reformular minha resposta. Poderia perguntar de outra forma?", "Desculpe, vou tentar explicar de outro jeito."]
+      }
+    ]
+  }
+  
