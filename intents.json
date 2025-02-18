@@ -46,11 +46,6 @@
         "responses": ["Se você estiver com dificuldades na inscrição, tente limpar o cache do navegador ou acessar de outro dispositivo. Se o problema persistir, entre em contato com o suporte."]
       },
       {
-        "tag": "contato_suporte",
-        "patterns": ["Como entrar em contato com o suporte?", "Qual o e-mail do PIPE?", "Existe um telefone para suporte?"],
-        "responses": ["Você pode entrar em contato pelo e-mail suporte@pipe.com.br ou pelo telefone (11) 1234-5678."]
-      },
-      {
         "tag": "diferenca_outros_programas",
         "patterns": ["Qual a diferença entre PIPE e outros programas?", "PIPE é igual ao FAPESP?", "Quais as vantagens do PIPE sobre outros financiamentos?"],
         "responses": ["O PIPE se diferencia por apoiar pequenas empresas inovadoras sem exigir reembolso, focando na pesquisa e desenvolvimento."]
