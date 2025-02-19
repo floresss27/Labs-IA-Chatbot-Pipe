@@ -67,3 +67,6 @@ O chatbot é baseado em um conjunto de **intenções** que representam categoria
 | `nao_entendi`         | Responde quando o chatbot não entende a pergunta. |
 
 ---
+
+## Relatorio
+[Relatorio-Chatbot-PIPE.pdf.pdf](https://github.com/user-attachments/files/18856065/Relatorio-Chatbot-PIPE.pdf.pdf)
